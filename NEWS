@@ -1,0 +1,43 @@
+9
+
+* New translations
+
+7
+
+* New translations
+
+6
+
+ENHANCEMENTS:
+* Ignacio Rodriguez port to gtk3
+
+5
+
+ENHANCEMENTS:
+* New translations
+* Added summary to activity.info file
+
+4
+
+BUG FIX:
+* Icon colors were wrong
+
+3
+
+ENHANCEMENT:
+* New artwork
+
+BUG FIX:
+* Fall back to gst-launch-10 if gst-launch not found
+
+2
+
+BUG FIX:
+* Properly assigned license for artwork
+* Fixed typo preventing one sound from playing
+
+1
+
+New game modeled on CucoXO. This version is written in Python and
+hence will run on any architecture. It also will scale to arbitrary
+display sizes.
